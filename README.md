@@ -32,9 +32,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Gutta podrica: a treatise of the gout The severall sorts thereof. VVhat diet is good for such as are
+
+1. TO ALL HONORABLE, Reverend, and Worshipfull Lords, Spirituall or Temporall, Ladyes, Knights, Scholars, Gentlemen and Gentlewomen, of any degree, that are unwillingly acquainted with this frequent disease, especially of the Podagrick Gout: The Publisher hereof sendeth greeting.
+
 #####Body#####
-Gutta podrica: a treatise of the gout The severall sorts thereof. VVhat diet is good for such as are
+
+1. A TREATISE OF THE Disease of the GOVT. The severall sorts thereof, &c.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
